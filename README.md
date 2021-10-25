@@ -1,5 +1,5 @@
 # Torch_O
-# nalcoding -> using -> torch
+# nalcoding -> torch
 
 # Tree
 
