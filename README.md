@@ -19,9 +19,9 @@
 4. (abalone/pulsar_stars/faults)
 5. dataset.csv
 
-# Large size dataset files can't uploade to github 
+# Large size dataset files
 
-**You need download Dataset and need make folder**
+**You need download Dataset**
 
 **dir => root_dir + '../big_data'**
 
