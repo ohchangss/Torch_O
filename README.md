@@ -31,3 +31,6 @@ flowers_url = https://www.kaggle.com/alxmamaev/flowers-recognition
 
 
 nalcoding to PyTorch : )
+
+[up]
+docker-compose -f docker-compose.yml --env-file .env up -d --build
